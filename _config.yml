@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: '' #change this to empty ('')
-url: "https://yoursite.github.io"
+url: "https://zoejennings.github.io"
 title: My Famous Blog # site's title
 description: "A website with blog posts and pages" # used by search engines
 
@@ -77,7 +77,7 @@ exclude: [".jekyll-cache", "Gemfile", "README.md"]
 # You can also use prose (prose.io) to edit and post to your site
 prose:
   #rooturl: '_posts'
-  siteurl: 'https://yoursite.github.io'
+  siteurl: 'https://zoejennings.github.io'
   media: 'images'
   ignore:
     - README.md
